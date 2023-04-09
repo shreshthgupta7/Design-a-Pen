@@ -5,5 +5,5 @@ public abstract class Pen {
     String brand;
     String price;
     type type;
-    public abstract void write();
+    public abstract void write(String k);
 }

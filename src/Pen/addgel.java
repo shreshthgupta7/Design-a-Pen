@@ -1,9 +1,10 @@
 package Pen;
 
-public class addgel implements writebehaviour{
+public class addgel{
 
-    @Override
-    public void style() {
-    System.out.println("smooth add gel");
+
+    public void write(){
+    addgelwritebehaviour awb=new addgelwritebehaviour();
+    awb.style();
     }
 }
