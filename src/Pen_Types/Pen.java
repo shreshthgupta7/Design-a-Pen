@@ -1,4 +1,4 @@
-package Pen;
+package Pen_Types;
 
 public abstract class Pen {
     String name;

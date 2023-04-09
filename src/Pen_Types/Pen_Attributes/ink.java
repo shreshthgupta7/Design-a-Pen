@@ -1,4 +1,4 @@
-package Pen;
+package Pen_Types.Pen_Attributes;
 
 public class ink {
     String color;
